@@ -33,6 +33,7 @@
     <string name="device_category_nubia_title" translatable="false">Nubia</string>
     <string name="device_category_lyf_title" translatable="false">LYF</string>
     <string name="device_category_yu_title" translatable="false">YU</string>
+    <string name="device_category_realme_title" translatable="false">Realme</string>
 
     <!-- Devices & Maintainers -->
     <!-- Asus Zenfone Max Pro M1(X00T) -->
@@ -90,5 +91,9 @@
     <!-- Yu Yureka Black(garlic) -->
     <string name="device_garlic" translatable="false">Yu Yureka Black</string>
     <string name="device_garlic_summary" translatable="false">Garlic\nvjs Pranav</string>
+
+    <!-- Realme 2 Pro(RMX1801) -->
+    <string name="device_RMX1801" translatable="false">Realme 2 pro</string>
+    <string name="device_RMX1801_summary" translatable="false">RMX1801\nBaibhab</string>
 
 </resources> 
